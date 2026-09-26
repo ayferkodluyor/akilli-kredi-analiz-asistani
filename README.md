@@ -53,5 +53,6 @@ Ardından final Python dosyasını çalıştırın.
 
 ## 📸 Uygulama Görünümü
 
-![Kampanya Hedefleme ve Optimizasyon](akilli-kredi-1.jpg  akilli-kredi-2.jpg)
+akilli-kredi-1.jpg
+akilli-kredi-2.jpg
 
