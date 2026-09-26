@@ -51,3 +51,7 @@ Dönemsel trend analizi ve erken uyarı yaklaşımının eklendiği final sürü
 Gerekli paketi yükleyin: pip install -r requirements.txt
 Ardından final Python dosyasını çalıştırın.
 
+## 📸 Uygulama Görünümü
+
+![Kampanya Hedefleme ve Optimizasyon](kampanya-optimizasyon.jpg)
+
