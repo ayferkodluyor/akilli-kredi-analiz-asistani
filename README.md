@@ -51,8 +51,8 @@ Dönemsel trend analizi ve erken uyarı yaklaşımının eklendiği final sürü
 Gerekli paketi yükleyin: pip install -r requirements.txt
 Ardından final Python dosyasını çalıştırın.
 
-## 📸 Uygulama Görünümü
+## 📸 Uygulama Görüntüleri
 
-akilli-kredi-1.jpg
-akilli-kredi-2.jpg
+![Akıllı Kredi Analiz Asistanı - Ekran 1](akilli-kredi-1.jpg)
 
+![Akıllı Kredi Analiz Asistanı - Ekran 2](akilli-kredi-2.jpg)
