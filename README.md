@@ -47,6 +47,7 @@ Bölüm 3 / Erken Uyarı Sistemi
 Dönemsel trend analizi ve erken uyarı yaklaşımının eklendiği final sürüm: https://www.youtube.com/watch?v=OIhpCZ3uRcg
 
 ▶️ Çalıştırma
+
 Gerekli paketi yükleyin: pip install -r requirements.txt
 Ardından final Python dosyasını çalıştırın.
 
